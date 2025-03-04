@@ -1,0 +1,10 @@
+{
+    "Author": "mmbluey",
+    "Name": "Dredge Bad Apple",
+    "ModGUID": "mmbluey.badapple",
+    "ModAssembly": "DredgeBadApple.dll",
+    "Entrypoint": "DredgeBadApple.Loader/Initialize",
+    "Version": "0.0.1",
+    "MinWinchVersion": "0.3.2",
+    "ApplyPatches": false
+}

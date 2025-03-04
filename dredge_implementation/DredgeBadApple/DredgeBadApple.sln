@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DredgeBadApple", "DredgeBadApple.csproj", "{6F2A72DD-AC9D-4A49-B570-06C8123482FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F2A72DD-AC9D-4A49-B570-06C8123482FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2A72DD-AC9D-4A49-B570-06C8123482FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2A72DD-AC9D-4A49-B570-06C8123482FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2A72DD-AC9D-4A49-B570-06C8123482FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {744BD702-DE46-4606-903B-E15272941D1E}
+	EndGlobalSection
+EndGlobal
