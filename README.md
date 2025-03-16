@@ -20,6 +20,6 @@ Bad Apple, recreated in the game [DREDGE](https://store.steampowered.com/app/156
 - Good job.
 
 ## Hotkeys
-- P to execute animatino
+- P to execute animation
 - V to spawn crab pots
 - U to cleanup crab pots
